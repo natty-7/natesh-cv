@@ -25,7 +25,7 @@ github_username:  natty-7
 linkedin_username: natesh-raj-ramalingam
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: /@BuildRunScale
+youtube_username: '@BuildRunScale'
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -91,7 +91,7 @@ content:
         title: Tata Consultancy Services
         link: www.tcs.com
         # link_text: boringcompany.com
-        sub_title: Systems Engineerr
+        sub_title: Systems Engineer
         caption: November 2018 - December 2022
         quote: >
           Tata Consultancy Services helps businesses transform through technology. I worked for the client AutoNation.
